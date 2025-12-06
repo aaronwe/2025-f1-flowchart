@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://aaronwe.github.io/2025-f1-flowchart/",
+  "homepage": "https://aaronwe.github.io/2025-f1-flowchart",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
